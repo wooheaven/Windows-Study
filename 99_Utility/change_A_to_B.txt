@@ -1,3 +1,11 @@
-01_Windows_7/01_git/01_install_vim_bundle_Vundle_on_git-bash.md -> 01_Windows_7/02_git/01_install_vim_bundle_Vundle_on_git-bash.md
-01_Windows_7/01_git/02_install_vim_bundle_NERD_Tree_on_git-bash.md -> 01_Windows_7/02_git/02_install_vim_bundle_NERD_Tree_on_git-bash.md
-01_Windows_7/01_git/03_install_rsync_to_git-bash.md -> 01_Windows_7/02_git/03_install_rsync_to_git-bash.md
+01_Windows_7/03_update/01_disable_update.md -> 01_Windows_7/04_update/01_disable_update.md
+01_Windows_7/03_update/1.jpg -> 01_Windows_7/04_update/1.jpg
+01_Windows_7/03_update/10.jpg -> 01_Windows_7/04_update/10.jpg
+01_Windows_7/03_update/2.jpg -> 01_Windows_7/04_update/2.jpg
+01_Windows_7/03_update/3.jpg -> 01_Windows_7/04_update/3.jpg
+01_Windows_7/03_update/4.jpg -> 01_Windows_7/04_update/4.jpg
+01_Windows_7/03_update/5.jpg -> 01_Windows_7/04_update/5.jpg
+01_Windows_7/03_update/6.jpg -> 01_Windows_7/04_update/6.jpg
+01_Windows_7/03_update/7.jpg -> 01_Windows_7/04_update/7.jpg
+01_Windows_7/03_update/8.jpg -> 01_Windows_7/04_update/8.jpg
+01_Windows_7/03_update/9.jpg -> 01_Windows_7/04_update/9.jpg
