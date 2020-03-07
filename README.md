@@ -9,6 +9,8 @@
 ║░║░╚═1 [connect network drive](01_Windows_7/03_network_drive/01_connect_network_drive.md)  
 ║░╚═4 update  
 ║░░░╚═1 [disable update](01_Windows_7/04_update/01_disable_update.md)  
+╠═2 Windows10  
+║░╚═1 [iSeries Navigator : DB2 GUI client](02_Windows_10/01_iSeries_Navigator/01_install_iSeries_Navigator.md)  
 ╠═99 Utility  
 ║░╠═1 [modify renamed files on README.md](99_Utility/03_modify_number_of_file_on_README.sh)  
 ║░╚═2 [lists of renamed files](99_Utility/change_A_to_B.txt)  
