@@ -10,7 +10,8 @@
 ║░╚═4 update  
 ║░░░╚═1 [disable update](01_Windows_7/04_update/01_disable_update.md)  
 ╠═2 Windows10  
-║░╚═1 [iSeries Navigator : DB2 GUI client](02_Windows_10/01_iSeries_Navigator/01_install_iSeries_Navigator.md)  
+║░╠═1 [iSeries Navigator : DB2 GUI client](02_Windows_10/01_iSeries_Navigator/01_install_iSeries_Navigator.md)  
+║░╚═2 [Time : internet time sync](02_Windows_10/02_time/01_internet_time_sync.md)  
 ╠═99 Utility  
 ║░╠═1 [modify renamed files on README.md](99_Utility/03_modify_number_of_file_on_README.sh)  
 ║░╚═2 [lists of renamed files](99_Utility/change_A_to_B.txt)  
